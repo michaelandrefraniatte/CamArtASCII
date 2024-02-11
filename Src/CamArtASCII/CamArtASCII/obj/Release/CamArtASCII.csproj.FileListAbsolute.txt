@@ -37,3 +37,14 @@ C:\Users\micha\Documents\Work\Audio-Video-Tools\Src\CamArtASCII\Src\CamArtASCII\
 C:\Users\micha\Documents\Work\Audio-Video-Tools\Src\CamArtASCII\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.csproj.CopyComplete
 C:\Users\micha\Documents\Work\Audio-Video-Tools\Src\CamArtASCII\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.exe
 C:\Users\micha\Documents\Work\Audio-Video-Tools\Src\CamArtASCII\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.pdb
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\bin\Release\CamArtASCII.exe.config
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\bin\Release\CamArtASCII.exe
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\bin\Release\CamArtASCII.pdb
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.Form1.resources
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.Properties.Resources.resources
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.csproj.CopyComplete
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.exe
+C:\Users\micha\Documents\github\CamArtASCIIOfficial\Src\CamArtASCII\CamArtASCII\obj\Release\CamArtASCII.pdb
